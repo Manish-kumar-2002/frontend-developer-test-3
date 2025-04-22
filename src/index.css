@@ -1,0 +1,17 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css");
+@import url("react-draft-wysiwyg/dist/react-draft-wysiwyg.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #111827;
+  color: #fff;
+}
+.container {
+  width: 100%;
+  padding: 0 20px !important;
+  max-width: 1660px !important;
+  margin: 0 auto;
+}
